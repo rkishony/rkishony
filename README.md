@@ -8,8 +8,9 @@ Technion - Israel Institute of Technology
 
 
 Interested in:
-- Data science tools for biomedicine
+- Data science tools
 - Machine learning
+- Biomedicine
 
 <!---
 rkishony/rkishony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
